@@ -29,8 +29,8 @@ Developed a full-stack sneaker shopping application using React.js, Spring Boot,
 
 ### Connect With Me
 - GitHub: https://github.com/Varunbabar
-- LinkedIn: [Your LinkedIn profile URL]
-- Email: [Your professional email address]
+- LinkedIn: www.linkedin.com/in/varun-babar
+- Email: varunbabar156@gmail.com
 
 ---
 
